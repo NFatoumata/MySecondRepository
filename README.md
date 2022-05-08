@@ -1,2 +1,3 @@
 # MySecondRepository
-Mon deuxièxe repository
+Mon deuxièxe repository dna l'apprentissage de git 
+
